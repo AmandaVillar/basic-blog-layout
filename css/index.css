@@ -41,9 +41,11 @@ p {
 
 a:link {
     color: rgb(1, 79, 1);
+    font-weight: bold;
 }
 
-a:hover, a:focus {
+a:hover, 
+a:focus {
     color: rgb(20, 43, 20);
 }
 
